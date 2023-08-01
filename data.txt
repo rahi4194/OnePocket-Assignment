@@ -1,0 +1,36 @@
+Hi there,
+
+Thank you for your interest in the Node Developer position at our company! Before we proceed with the interview process, we would like to evaluate your Node.js skills with a small coding test. Please complete the following tasks and share your code within 48 hours of receiving this message.
+
+Task 1: Basic Node.js Server
+Create a simple Node.js server that listens on port 3000 and responds with "Hello, World!" for all incoming HTTP requests. You can use any library or framework of your choice.
+
+Task 2: Data Manipulation
+Write a function in Node.js that takes an array of integers as input and returns the sum of all the numbers.
+
+Task 3: Asynchronous File Handling
+Create a Node.js script that reads a text file named "data.txt" and counts the number of words in it. The script should print the total word count to the console.
+
+Submission:
+Please create a new GitHub repository and upload your solution. Share the repository link with us in the google form response below.
+
+Additionally, we would like to learn more about you and your background. To help us with the evaluation process, we kindly request you to provide some additional information through a Google Form. The form will cover the following areas:
+Personal Information
+Contact Details
+Work Experience (if applicable)
+Technical Skills and Proficiency
+Your responses will be kept confidential and will only be used for the purpose of the job application.
+
+Please fill out the form using the link provided below:
+https://forms.gle/vZEr3sXUwerQXwfp9
+
+Once you have completed both the coding test, please ensure you`share the GitHub repository link and click the "Submit" button for the form,
+
+If you encounter any issues or have any questions regarding the test or the form, feel free to reach out to us via email at hiring@onepoket.com.
+
+We kindly request you to complete the tasks within 48 hours of receiving this message.
+
+Thank you again for your interest in joining our team. We look forward to reviewing your application and getting to know you better through the coding test and the Google Form.
+
+Best regards,
+Team Onepoket
